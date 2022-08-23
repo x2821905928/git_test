@@ -8,6 +8,11 @@ public class Test1111 {
         System.out.println("hello,user01");
         System.out.println("hello,mmmmmmm");
         System.out.println("hello,uxxxxxxxxxxxx");
+        System.out.println("hello,uxxxxxxxxxxxx");
+        System.out.println("hello,uxxxxxxxxxxxx");
+        System.out.println("hello,uxxxxxxxxxxxx");
+        System.out.println("hello,uxxxxxxxxxxxx");
+        System.out.println("push,uxxxxxxxxxxxx");
 
     }
 }

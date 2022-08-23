@@ -13,6 +13,8 @@ public class Test1111 {
         System.out.println("hello,uxxxxxxxxxxxx");
         System.out.println("hello,uxxxxxxxxxxxx");
         System.out.println("push,uxxxxxxxxxxxx");
+        System.out.println("push,uxxxxxxxxxxxx");
+        System.out.println("pull,uxxxxxxxxxxxx");
 
     }
 }
